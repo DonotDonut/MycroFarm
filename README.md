@@ -1,12 +1,9 @@
 # MycroFram
-The Finalized main code used for the MycroFarm project is under Final_MainCode. 
-The code is used to monitor and create the ideal growth conditions for blue oyster mushrooms. 
 
-The finalized Electrical schematic for the MycroFarm project is named "MycroFarm" 
+Mycrofarm 
 
-Here is the Engineering notebook: https://docs.google.com/document/d/1Lhp53V3WfPwsBI7f3HxU7dktyICybwIUKIAoy88mZY0/edit?usp=sharing 
+This project developed an automated growing enclosure designed to help users grow plants despite common limitations like limited time, space, or experience. The enclosure continuously monitors and adjusts critical environmental factors—temperature, humidity, oxygen, and carbon dioxide—creating an ideal environment for plant growth. For our initial testing, we selected blue oyster mushrooms due to their ease of growth, rapid growth cycle, and high yield, allowing us to effectively assess the enclosure’s performance. By automating environmental control, this enclosure offers an accessible and efficient solution for home growing, making it possible for users to enjoy fresh produce with minimal effort.
 
-Here is our Final Report: https://docs.google.com/document/d/11wMit18eWwdZ0GYx9BHDZPxu6wT-hjJx73F1qLXhU6s/edit?usp=sharing
-
+Created by Enrique Arley-Imhoff, Timothy Caole, Anthony Le, Angelica Quinto,  James Oelund
 
 
